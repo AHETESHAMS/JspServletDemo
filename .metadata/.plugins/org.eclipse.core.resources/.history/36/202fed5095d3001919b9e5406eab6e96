@@ -1,0 +1,9 @@
+<html>
+<body>
+<from action="login">
+Enter User Name <input type="text" name="name"><br>
+Enter Password <input type="password" name="password"><br>
+<input type="submit" value="login">
+</from>
+</body>
+</html>
